@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/susurrant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yampolskaya.dev
+  * I am susurrant (https://keybase.io/susurrant) on keybase.
+  * I have a public key ASC_vWB5MeDchjeEumxf1kGSaFPvvEKsd72wD94HasoW2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b73828f4f5c94810b1c9a9579e6a7562b91d66ad6d0752e3b487629ac0537a520a",
+      "host": "keybase.io",
+      "kid": "0120bfbd607931e0dc863784ba6c5fd641926853efbc42ac77bdb00fde076aca16d80a",
+      "uid": "5c30573ddc9beddfbc72119e14432119",
+      "username": "susurrant"
+    },
+    "merkle_root": {
+      "ctime": 1576026006,
+      "hash": "96e08f9d03a5b04c99af4986f5dedd81330410a49dbdf9db076828988575cd2b8bb7891db34f9a93e41f1ed4c99bd43b17b0ac0c8481b9fdaa682d0dbf8c2f6a",
+      "hash_meta": "97ecd8355d02ad4ecbb21d0e2b4ac5bc1e461cbf365c88e028f222741c60dfd4",
+      "seqno": 13349848
+    },
+    "service": {
+      "entropy": "iUz1OChdi6okr651+imL3agc",
+      "hostname": "yampolskaya.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1576026013,
+  "expire_in": 504576000,
+  "prev": "d398ccdd3ca6e72d8ad1ca5345e56d9a2df869f3d973a1ce1ef9db7d2e446897",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgv71geTHg3IY3hLpsX9ZBkmhT77xCrHe9sA/eB2rKFtgKp3BheWxvYWTESpcCC8Qg05jM3Tym5y2K0cpTReVtmi34afPZc6HOHvnbfS5EaJfEII1Xm9ILa0/iHX52VT278hRLl7iS1srVUO3yBDFxSWp9AgHCo3NpZ8RAp5s6s4cN4QDcshxQdfDvPWqp+P0EiWBvyloFyyjrCuP361imdDBVnl8E1jtxADVQ8OLla/7cXoFIDWgLXzC8AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHhKaQlcItghr5DF8kCvE5OUTllnkhXVVjnY3j//dXpOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/susurrant
+
+==================================================================
